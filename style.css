@@ -37,22 +37,22 @@ section {
   border: 5px solid;
 }
 
-.grids-up {
+.grids-down {
   width: 220px;
   height: 150px;
   position: absolute;
-  top: 570px;
+  top: 580px;
   right: 130px;
   z-index: 2;
   display: grid;
   transform: rotate(20deg) skew(20deg, 10deg);
 }
 
-.grids-down {
+.grids-up {
   width: 220px;
   height: 150px;
   position: absolute;
-  top: 570px;
+  top: 580px;
   right: 140px;
   z-index: 2;
   display: grid;
